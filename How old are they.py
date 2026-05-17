@@ -27,3 +27,10 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+
+    """   print (f"Anton is {str(Anton)}")
+    print (f"Beth is {str(Beth)}")
+    print (f"Chen is {str(Chen)}")
+    print (f"Drew is {str(Drew)}")
+    print (f"Ethan is {str(Ethan)}")"""
