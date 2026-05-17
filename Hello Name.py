@@ -1,8 +1,5 @@
 def main():
-    """
-    You should write your code here. Make sure to delete 
-    the 'pass' line before starting to write your own code. fer
-    """
+    """ Variable definition to get input from the user """
     name = input("What is your name? ")
     print (f"Hello {name}")
 
